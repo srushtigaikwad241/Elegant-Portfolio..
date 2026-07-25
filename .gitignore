@@ -1,0 +1,25 @@
+# Elegant Portfolio
+
+A stylish and elegant portfolio website with 3D animations.
+
+## Quick Start
+
+1. Install dependencies: `npm install`
+2. Start the dev server: `npm start`
+3. Build for production: `npm build`
+
+## Features
+
+✨ 3D animated hero section  
+📱 Responsive design  
+🎨 Modern elegant styling  
+⚡ Smooth animations  
+🚀 Fast performance  
+
+## Customization
+
+- Update your info in `src/components/About.jsx`
+- Change colors in `tailwind.config.js`
+- Modify 3D effects in `src/components/Hero3D.jsx`
+
+Enjoy your new portfolio! 🎉
